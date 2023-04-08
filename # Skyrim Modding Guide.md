@@ -25,8 +25,9 @@ Be certain to download the appropriate version! 1.7.3 is for Skyrim LE, which is
 2. Step 2 : Where to get mods
 While there are hundreds of websites that provide mods for Skyrim, only a few of them are used by most modders. Here are two websites most fans get their mods from:
 
-Nexus Mods: The definitive space to find mods for PC Skyrim fans. Both the original and Special Edition versions of Skyrim have mods on this website.
-[link](https://www.nexusmods.com/skyrim)
+Nexus Mods [nexusmod](https://www.nexusmods.com/skyrim): The definitive space to find mods for PC Skyrim fans. Both the original and Special Edition versions of Skyrim have mods on this website.
+
+
 Bethesda.net: Console players get their mods from here, although PC players can use it as well. Skyrim: Special Edition's in-game mod menu pulls its content from here.
 
 More websites than these two provide Skyrim mods, but these two are the most popular. Both websites have search bars and tags you can use to find mods that interest you.
