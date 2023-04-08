@@ -69,6 +69,7 @@ Install the voiceover addon ==NEW== on top of the main mod (+ optional addons he
 - RASR - Random Alternate Start Reborn
 - Realm of Lorkhan - Freeform Alternate Start
 - Optional Quick Start ==NEW==
+
 Why you need this? These mods provide wide amount of alternative starts to the game for those who do not wish to go through the lengthy intro sequence at Helgen. The thing is that vanilla start (scene in Helgen) is VERY heavy-scripted. And when you will install let's say, 200+ mods and start a new game, your Skyrim will be very heavy overloaded. And there's very high chance that your game will crash (because the Papyrus, Skyrim's script engine, was [not] updated in SE and it's same clunky and limited), even if the game itself is absolutely stable. And now these mods save the day! You can just skip this heavy-scripted scene and start anywhere you like. Besides, they have a really wide amount of alternative start, great for roleplay.
 Which one to use, what is the difference? Long story short, ASLAL provides more "roleplay-wise" starts - you will appear in a certain cell, depending on your start option choice, and also has plenty of additional start options addons.
 Unbound will spawn you randomly, so less "immersive" start, but it allows you highly adjustable character customization (gear, spells etc) which ASLAL doesn't, and the most important - it allows you to play as NON-Dragonborn (but you can "become" it in MCM anytime), which is really a great option.
@@ -76,75 +77,121 @@ RASR is somewhat like a mix of these two, a pretty underrated gem and Realm of L
 Optional Quick Start is a super-simple alternative, which is not quite "alternate start" mod, but rather "skip Helgen into" one.
 
 12) Get the Cathedral Assets Optimizer
+
 This step is optional. Easy-to-use tool to convert meshes/textures from LE to SE (and backwards as well). This tool will help you to have the best from both game version in terms of such kind of mods.
 
 13) The last in this section, but important and mandatory step.
 Install all these amazing mods/patches/fixes which are oriented on fixing huge amount of various little bugs or irrational things in game or just to make you your game much more comfortable.
+
 Note: Make sure to install proper versions of mods (where needed) for your SE/AE game version - thus, don't use the "Vortex" download button, but always go to "Files" tab and download proper mod version from there.
 
 Unofficial Skyrim Special Edition Patch
+
 This mod should be already considered as part of vanilla game. It fixes literally thousands glitches and bugs in Skyrim. Note: if you're modding the SE version of the game (1.5.97, not AE), simply use the latest SE version of the patch from here (add the file to your mod manager and install as usually).
 .NET Script Framework
+
 Required by some other things. Framework for memory editing, native code hooking and writing DLL plugins in any .NET language. Also provides crash logs which are sometimes and somewhat useful (SE - for AE, install this ==NEW==, can use it in SE/AE instead).
+
 RaceMenu
+
 Character creation menu how it should have been originally and great amount of customization options. For Skyrim SE (1.5.97), get the "RaceMenu Special Edition v0-4-16" version (direct download link in case of what). Also get this ==NEW== (make sure to - but only if you're on SE, not AE) and this.
+
 Stay At The System Page NG ==NEW==
+
 This mod brings back the behavior of original Skyrim's Journal Menu. Whenever you press the Escape key, mod will open the System page instead of Quest page. Muh convenient!
+
 Better Dialogue Controls + Better MessageBox Controls
+
 Ever pick the wrong item in a dialogue with a NPC or struggled with not cozy controls in messagebox popups? No more!
+
 1st Person Candlelight Fix
+
 Have you ever been annoyed that the candlelight spell is much brighter in 3rd person view than 1st person view? This mod aims to reduce that difference and make them more equal. Note: Don't let any other mod overwrite it, in case of what. Also, if you're modding Skyrim "VR", use this one instead.
+
 Better Jumping SE
 Allows to jump while sprinting.
+
 Equip Enchantment Fix
 Fixes engine bugs where item enchantments don't apply when equipped or stop working while the item is still equipped. SKSE64 plugin.
+
 Major Cities Mesh Overhaul ==NEW==
+
 Improves meshes and also some textures of many buildings, terrain meshes and other objects, which are used in the major cities of Skyrim.
 Assorted mesh fixes
+
 Fixes various issues with vanilla Skyrim meshes that caused them to render incorrectly.
+
 Don't Stay in The Water
+
 Fixes the bug that stupid enemies may stay in the water and look at you angrily but just don't come up.
 Scrambled Bugs
+
 A collection of several misc engine bug fixes, including couple of dll alternatives to existing plugin form of some bugfifixes. Get the proper version (SE/AE) and read the mod description page for the list of features and (possible) compatibility notes. Also make sure to install .NET 5.0 as it's required for Scrambled Bugs to work.
+
 Note: enable the "attachHitEffectArt" (set to True instead of False) in ScrambledBugs.json file.
+
 powerofthree's Tweaks
+
 Similar thing here as well, as well as plenty optional QOL (quality of life) options. If you're in Skyrim "VR", install VR version ==NEW== instead.
+
 Barter Limit Fix ==NEW==
+
 SKSE plugin that fixes trading with merchants with more than 32,767 gold.
+
 Atlas Map Markers - Updated with MCM
+
 Essential mod that drastically increases amount of map markers. Remember how you was able to fast travel only to Whiterun itself or Dragonsreach? Now you can fast travel to Arcadia's Cauldron, Jorrvaskr etc. More than 700 new map markers! Also grab these small fixes and make sure to endorse the original mod.
 Weapons Armor Clothing and Clutter Fixes + Armor and Clothing Extension
 These two mod fix hundreds of bugs and inconsistencies for Skyrim's weapons, armors, clothing, jewelry, and clutter items and add more diversity and lore-friendly clothing options and gives NPCs more appropriate attire.
+
 Complete Crafting Overhaul
+
 Essential mod from author of previous two fixes. CCOR is reworking all vanilla craft recipes, offers many options for mining, chopping, smelting and so on - simply making everything crafting-related to be logical and really interesting. That's why you need it even if you never actually crafted a single thing in Skyrim - because now it's not that dull crafting system. Consider it as the vanilla part of the game as it always should have been from the release. Most of mod options can be enabled/disabled and configured via MCM.
+
 Navigator - Navmesh Fixes ==NEW==
+
 Navmesh improvements (read - NPCs getting stuck as idiots in some places) for dozens interiors in Skyrim.
+
 CritterSpawn Congestion Fix ==NEW==
+
 A fix for the critter (bugs, fish etc) spawner that decreases the general script load of your game.
+
 Unequip Quiver
+
 An SKSE plugin which removes the quiver/bolts when equipping weapons and spells or when the character unequips the bow or crossbow. Improved version of "Auto Unequip Ammo" mod.
+
 More Informative Console
+
 This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Skyrim LE. It may help you in various cases of game testing and possible issues solving.
+
 ConsoleUtilSSE NG==NEW==
+
 Needed for some other mods.
+
 Fuz Ro D-oh - Silent Voice
+
 An SKSE plugin that adds support for unvoiced in-game dialogs. Isn't doing anything by itself, by it's needed for many mods for mod-added dialogues to work properly.
+
 Base Object Swapper ==NEW==
+
 A utility SKSE plugin, will be needed for some other mods further in the guide.
+
 AnimObject Swapper ==NEW==
+
 Mod of a similar kinds for animations, will be used by some mods too.
+
 powerofthree's Papyrus Extender ==NEW==
+
 SKSE64 plugin that extends Papyrus (Skyrim's script engine) functionality - needed for couple dozens mods in this guide, install and forget.
 Lightened Skyrim
+
 Gain FPS across Skyrim with no visual difference. Note: install it later, when you'll finish "The Rest" section of the graphics guide.
+
 Congrats, you're ready now!
 
 
 
 ## Troubleshooting
+If you encounter crashing please first refer to the mod website to see if there are any in compatible mods that you are downloading together.
 
-If you encounter any issues, please refer to the following:
-
-- [FAQs](#faqs)
-- [Forums](#forums)
-- [Contact us](#contact-us)
+If you cannot find it on the mod page, it is best advised that you should test mods one by one to determine which mod is causing it and remove it
